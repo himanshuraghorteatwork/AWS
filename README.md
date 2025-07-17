@@ -31,7 +31,7 @@ Enable Function URL → Auth Type: None (public access)
 2️⃣ Upload the JAR
 
 Used Maven/Gradle to build my JAR, or downloaded from
-👉 Sample Git Repo for JARs
+👉 https://github.com/himanshuraghorteatwork/AWS
 
 3️⃣ Configure the Handler
 Handler syntax:
